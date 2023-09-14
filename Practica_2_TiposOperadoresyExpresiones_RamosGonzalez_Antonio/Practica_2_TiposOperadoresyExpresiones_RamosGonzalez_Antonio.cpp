@@ -56,6 +56,23 @@ int main(){
         }
         printf("\n");
 
+        printf("numero en bits negado\n");
+        for(int i=indice-1;i>=0;i--)
+        {
+            if (bits[i]==1)
+            {
+                bits[i]-=1;
+            }
+            else
+            {
+                bits[i]+=1;
+            }
+
+            
+            printf("%d",bits[i]);
+        }
+        printf("\n");
+
         //Buscar la cantidad de bits encendidos
 
         int bits_encendidos=-1;

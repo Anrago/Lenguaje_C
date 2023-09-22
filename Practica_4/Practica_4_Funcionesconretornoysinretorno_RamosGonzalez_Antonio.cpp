@@ -1,3 +1,7 @@
+//  Practica_3_JuegodeadivinanzaconGoto_RamosGonzalez_Antonio
+//  Antonio Ramos Gonzalez mt 372576
+//  9/6/2023
+//  Descrpcion: Este codigo imprimira la serie de fibonacci en funciones con y sin recursion, asi como el triangulo de pascal
 #include <stdio.h>
 #include <stdlib.h>
 

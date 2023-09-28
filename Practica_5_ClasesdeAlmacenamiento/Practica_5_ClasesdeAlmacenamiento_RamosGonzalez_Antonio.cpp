@@ -12,7 +12,7 @@ int numero_loteria();
 
 int main()
 {
-    int prub;
+    
     int numero_usuario, opc;
     srand(time(NULL));
     do

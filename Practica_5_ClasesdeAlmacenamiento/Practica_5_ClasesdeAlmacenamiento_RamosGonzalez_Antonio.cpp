@@ -55,6 +55,7 @@ int main()
             }
             system("PAUSE");
             break;
+            
         case 2:
             iniciar_carrera();
             break;

@@ -88,6 +88,8 @@ void orderPal()
     }
 }
 
+//Realiza la suma de todos los elementos de la matriz
+//Asi como el numero mas grande y su poscicion actual
 void MatMulti()
 {
     int matriz[3][3] = {{2, 2, 5}, {6, 2, 10}, {4, 9, 5}};
